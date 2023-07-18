@@ -1,0 +1,11 @@
+{
+  "name": "filtro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server" : "json-server --watch ./bd/bd.json"
+  },
+  "author": "",
+  "license": "ISC"
+}

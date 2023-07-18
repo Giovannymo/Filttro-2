@@ -1,0 +1,54 @@
+{
+  "departamentos": [
+    {
+      "id": 1,
+      "nomDepartamento": "Santander"
+    },
+    {
+      "id": 2,
+      "nomDepartamento": "Cundinamarca"
+    }
+  ],
+  "ciudades": [
+    {
+      "id": 1,
+      "nomCiudad": "Bucaramanga",
+      "departamentoId": 1,
+      "imagen": "https://img.freepik.com/foto-gratis/famoso-puente-brooklyn-manana_268835-3987.jpg?w=826&t=st=1689643179~exp=1689643779~hmac=458ad950acee2e7987c5536b5dca7016ae95b176677a5105fe101b8d2d8554b8",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    },
+    {
+      "id": 2,
+      "nomCiudad": "Barrancabermeja",
+      "departamentoId": 1,
+      "imagen": "https://img.freepik.com/foto-gratis/vista-nocturna-arquitectura-centro-manhattan_649448-220.jpg?t=st=1689643172~exp=1689643772~hmac=612419f5abe19c8a0a2cbd82dc359f1817b619ee6c2cb5011303beec8d812cc2",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    },
+    {
+      "id": 3,
+      "nomCiudad": "Bogotá",
+      "departamentoId": 2,
+      "imagen": "https://img.freepik.com/foto-gratis/cityscape-bangkok-downtown-building-concept_53876-30344.jpg?w=826&t=st=1689643310~exp=1689643910~hmac=5835839da4354c2d2e219da8c34e00f6ce193817ad1cb76b50befac291e853f8",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    },
+    {
+      "id": 4,
+      "nomCiudad": "Cajica",
+      "departamentoId": 2,
+      "imagen": "https://img.freepik.com/foto-gratis/plaza-pueblo-distrito-financiero_1359-650.jpg?w=826&t=st=1689643324~exp=1689643924~hmac=81382b193f941a2674fab6c0b94f9b82820422dabd2c6d4999d3f240e51bbd14",
+      "coordenadas": {
+        "lat": 4,
+        "lon": 72
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+#containerAll{
+    min-height: 500px;
+}
+
+img{
+    width: 70px;
+}
+
+/*Para que el responsive funcione sin el vh*/
+@media (min-width: 1200px ){
+    .alto-100{
+        height: 100vh;
+    }
+}
